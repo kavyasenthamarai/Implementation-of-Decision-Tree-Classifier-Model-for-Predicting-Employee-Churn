@@ -70,6 +70,25 @@ Data info:
 
 ![238371021-3e876e7e-eadc-4125-b21b-6734a505096c](https://github.com/kavyasenthamarai/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118668727/915c50b6-c185-4d68-9d8d-f87101db2d18)
 
+Optimization of null values:
+
+![image](https://github.com/kavyasenthamarai/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118668727/818671a5-e9af-4b24-a709-e60478c9822b)
+
+Assignment of x and y values:
+
+![image](https://github.com/kavyasenthamarai/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118668727/478ac405-262a-4087-a0d0-aaac3a792f09)
+
+Converting string literals to numerical values using label encoder:
+
+![image](https://github.com/kavyasenthamarai/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118668727/6b31c971-6b11-45e7-88dc-318429b92637)
+
+Accuracy:
+
+![image](https://github.com/kavyasenthamarai/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118668727/f6c05b8a-b823-4570-b917-d46624e98f03)
+
+Prediction:
+
+![image](https://github.com/kavyasenthamarai/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118668727/9c953f5e-7d74-4913-b968-b0aed5acda5e)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
